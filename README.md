@@ -1,4 +1,4 @@
-# harrisonlalic.com
+# ![blue truck](public/favicon.ico) harrisonlalic.com
 
 Personal website of Harrison Lalic.
 
